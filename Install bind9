@@ -1,0 +1,1 @@
+apt-get install bind9 bind9utils bind9-dnsutils bind9-doc bind9-host -y
